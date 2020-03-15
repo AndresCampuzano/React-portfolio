@@ -1,0 +1,9 @@
+.experience--title {
+	width: 100%;
+}
+.experience--title h2 {
+	text-transform: uppercase;
+	color: #fec066;
+	text-shadow: 1px 0px 3px #240842;
+	margin-left: 45px;
+}

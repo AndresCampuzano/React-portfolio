@@ -1,0 +1,26 @@
+nav {
+	width: 100%;
+	height: auto;
+	background-color: #02254e;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+nav h2,
+nav li {
+	cursor: pointer;
+}
+nav h2 {
+	color: #fec066;
+	margin-left: 45px;
+}
+nav ul {
+	display: flex;
+	/* margin-right: 45px; */
+}
+nav li {
+	color: #ffffff;
+	list-style: none;
+	margin-left: 8px;
+	padding: 0;
+}
